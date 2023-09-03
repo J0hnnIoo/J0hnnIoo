@@ -1,7 +1,7 @@
 Meu nome é Johnny, atualmente sou um dev Java, no entanto pretendo trabalhar com Web no futuro.
 
 Atualmente estudo no Instituo Federal de Ciências e Tecnologias do Rio Grande do Sul (IFsul).
-Para mim, o curso foi uma oportunidade para aprender novas linguagens, e um pouco mais sobre o mundo do TI
+Para mim, o curso foi uma oportunidade para aprender novas linguagens, e ampliar minha visão sobre o mundo do TI
 
 Pretendo trabalhar ativamente na área e estou sempre pronto para aprender coisas novas.
 
